@@ -1,0 +1,5 @@
+aiogram>=3.13
+openai>=1.40
+gigachat>=0.1.35
+anthropic>=0.40
+python-dotenv>=1.0
